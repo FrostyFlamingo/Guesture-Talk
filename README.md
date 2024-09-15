@@ -37,7 +37,7 @@ The communication gap between sign language users and non-users poses significan
 8.	Stop Recognition
 •	Release Resources: Stop the video capture, release the webcam, and destroy OpenCV windows.
 
-\t \n ![image](https://github.com/user-attachments/assets/4c38c58d-8be3-4640-b6a0-1f8484cbbd67)
+![image](https://github.com/user-attachments/assets/4c38c58d-8be3-4640-b6a0-1f8484cbbd67)
 
 # SYSTEM REQUIREMENTS
 Hardware Requirements: The device should be either a laptop or desktop equipped with a camera. It must run on Windows, macOS, or Linux operating systems. The processor should be an Intel Core i5 11th Gen with a clock speed of 2.50 GHz or higher, and the system should include an NVIDIA GeForce RTX 2050 GPU. Additionally, a minimum of 8 GB of RAM and 25 GB of available hard disk space are required.
