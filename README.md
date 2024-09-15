@@ -37,4 +37,5 @@ The communication gap between sign language users and non-users poses significan
 8.	Stop Recognition
 •	Release Resources: Stop the video capture, release the webcam, and destroy OpenCV windows.
 
+![image](https://github.com/user-attachments/assets/4c38c58d-8be3-4640-b6a0-1f8484cbbd67)
 
